@@ -1,6 +1,6 @@
 # Site settings
 course_name: Introduction to Machine Learning
-course_description: "Work in progress"
+course_description: "Work in progress ..."
 course_semester: "Fall 2024"
 
 baseurl: "/wml101" # the subpath of your site, e.g. /blog/
