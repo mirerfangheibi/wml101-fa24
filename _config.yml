@@ -3,12 +3,12 @@ course_name: Introduction to Machine Learning
 course_description: "Work in progress ..."
 course_semester: "Fall 2024"
 
-baseurl: "/wml101" # the subpath of your site, e.g. /blog/
+baseurl: "/wml101-fa24" # the subpath of your site, e.g. /blog/
 url: "http://mgheibi-wavefin.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Hogwarts"
 schoolurl: "https://hogwarts.edu"
-twitter_username: username 
+twitter_username: # username 
 
 address: |
     School of Witchcraft and Wizardry
