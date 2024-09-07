@@ -1,6 +1,7 @@
 # Site settings
 course_name: Introduction to Machine Learning
-course_description: "Work in progress ..."
+course_description: "This educational endeavor is designed to introduce personnel from various departments and diverse professional backgrounds to the fundamental concepts of machine learning. The curriculum places a strong emphasis on supervised machine learning techniques, particularly as they apply to tabular data—a focus that aligns closely with the core products developed by our ML team.\n This course serves a dual purpose: firstly, to enhance interdepartmental communication, and secondly, to facilitate more effective discussions regarding project requirements and result interpretation. By establishing a shared foundation in machine learning principles and commonly used metrics, we aim to foster improved collaboration and synergy across different functional units within our organization.
+"
 course_semester: "Fall 2024"
 
 baseurl: "/wml101-fa24" # the subpath of your site, e.g. /blog/
@@ -11,9 +12,9 @@ schoolurl: "https://hogwarts.edu"
 twitter_username: # username 
 
 address: |
-    School of Witchcraft and Wizardry
-    Hogwarts
-    Scotland
+  School of Witchcraft and Wizardry
+  Hogwarts
+  Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
@@ -27,21 +28,21 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_images', '_css']
-exclude: ['develop']
+include: [ '_images', '_css' ]
+exclude: [ 'develop' ]
 
 dateformat: "%m/%d/%Y"
 
 future: true
 collections:
-    events:
-        output: true
-    lectures:
-        output: true
-    assignments:
-        output: true
-    announcements:
-        output: false
+  events:
+    output: true
+  lectures:
+    output: true
+  assignments:
+    output: true
+  announcements:
+    output: false
 
 
 defaults:
