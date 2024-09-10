@@ -1,4 +1,4 @@
 ---
 layout: home
 ---
-Register to our [Google groups page](https://groups.google.com/forum/#!forum/gp-id) to get course notifications via email.
+Make sure to join our [Slack Channel](https://wave.slack.com/archives/C07MBU66ZK2) to get course notifications!
