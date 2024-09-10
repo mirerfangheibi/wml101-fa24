@@ -10,13 +10,14 @@ baseurl: "/wml101-fa24" # the subpath of your site, e.g. /blog/
 url: "http://mgheibi-wavefin.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Wave Financial Inc."
-schoolurl: "https://www.waveapps.com/"
+schoolurl: "https://www.waveapps.com"
 twitter_username: # username 
 
-address: |
-  School of Witchcraft and Wizardry
-  Hogwarts
-  Scotland
+address:
+#  |
+#  School of Witchcraft and Wizardry
+#  Hogwarts
+#  Scotland
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
