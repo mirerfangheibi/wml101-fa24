@@ -3,7 +3,9 @@ instructors:
     profile_pic: #/_images/pp/dumbledore.jpg
     webpage: https://www.linkedin.com/in/mirerfangheibi
   - name: Saeed Garmsiri
-    profile_pic: #/_images/pp/mcgonagall.jpg
+    profile_pic: /_images/pp/saeed.png
+    webpage: https://www.linkedin.com/in/saeedgarmsiri
+
 
 teaching_assistants:
   - name: T.B.A
