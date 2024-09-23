@@ -12,6 +12,17 @@ links:
 #    - url: https://google.com
 #      name: slides
 ---
+**Main Topics:**
+- Mean, median, mode, etc.
+- Variance, standard deviation, etc.
+- Guassian distribution
+- Chebyshev's inequality
+- Skewness and kurtosis
+- Data Quality
+- DataFrames
+- Charts and Graphs
+- Outliers
+- Correlation Coefficient
+
 **Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+- Chapter 2 and 3 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
