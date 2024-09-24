@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2024-10-17T8:00:00+4:30
-title: Data Cleaning and Cross Validation
-tldr: "This lecture covers data cleaning and cross validation."
+date: 2024-10-18T8:00:00+4:30
+title: Regression
+tldr: "This lecture covers Regression."
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional
@@ -18,14 +18,12 @@ links:
 #      name: slides
 ---
 **Main Topics:**
-- Missing Values
-- Outliers
-- Data De-duplication
-- Feature Encoding
-- Train test split
-- Cross validation
-- Data Leakage
-- Covariate Shift
+- Regression Basics
+- Linear Regression
+- Polynomial Regression
+- Metrics
+- Overfitting and Underfitting
+- Conformal Prediction
 
 **Suggested Readings:**
-- Chapter 4 and 5 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
+- Chapter 6 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
