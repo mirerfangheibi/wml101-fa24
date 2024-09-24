@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2024-10-18T8:00:00+4:30
-title: Regression
-tldr: "This lecture covers regression."
+date: 2024-10-20T8:00:00+4:30
+title: Ensemble, Hyperparameter Optimization, and Feature Selection
+tldr: "This lecture covers ensemble methods, hyperparameter optimization, and feature selection."
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional
@@ -18,12 +18,13 @@ links:
 #      name: slides
 ---
 **Main Topics:**
-- Regression Basics
-- Linear Regression
-- Polynomial Regression
-- Metrics
-- Overfitting and Underfitting
-- Conformal Prediction
+- Random Forest
+- AdaBoost
+- Gradient Boosting
+- Hyperparameter Optimization
+- Feature Selection
+- Feature Engineering
+- PCA
 
 **Suggested Readings:**
-- Chapter 6 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
+- Chapter 8, 9, and 10 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).

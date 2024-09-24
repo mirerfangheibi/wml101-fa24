@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2024-10-18T8:00:00+4:30
-title: Regression
-tldr: "This lecture covers regression."
+date: 2024-10-19T8:00:00+4:30
+title: Classification
+tldr: "This lecture covers classification."
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional
@@ -18,12 +18,13 @@ links:
 #      name: slides
 ---
 **Main Topics:**
-- Regression Basics
-- Linear Regression
-- Polynomial Regression
+- Logistic Regression
+- Logloss function
 - Metrics
+- Imbalanced classification
 - Overfitting and Underfitting
-- Conformal Prediction
+- Calibration
+- Multiclass classification
 
 **Suggested Readings:**
-- Chapter 6 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
+- Chapter 7 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
