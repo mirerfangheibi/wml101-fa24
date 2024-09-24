@@ -7,7 +7,7 @@ thumbnail: # /static_files/presentations/lec.jpg
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
 #    - url: /static_files/presentations/lec.zip
