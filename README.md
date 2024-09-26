@@ -18,8 +18,9 @@ Welcome to the official repository for the **"Introduction to Machine Learning"*
 - **Materials**: Downloadable datasets, code examples, and other resources.
 
 ## 🧑‍🏫 Instructors
-- **Mirerfan Gheibi** - [LinkedIn](https://www.linkedin.com)
-- **Saeed Garmsiri** - [LinkedIn](https://www.linkedin.com)
+- **Mirerfan Gheibi** - [LinkedIn](https://www.linkedin.com/in/mirerfangheibi)
+- **Saeed Garmsiri** - [LinkedIn](https://www.linkedin.com/in/saeedgarmsiri)
+- **Pius Oyedepo** - [LinkedIn](https://www.linkedin.com/in/pius-oyedepo-30371283/)
 
 For further discussions and updates, join our [Slack Channel](https://wave.slack.com/archives/C07MBU66ZK2).
 

@@ -1,6 +1,6 @@
 # Site settings
 course_name: Introduction to Machine Learning
-course_description: "This educational endeavor is designed to introduce personnel from various departments and diverse professional backgrounds to the fundamental concepts of machine learning. The curriculum places a strong emphasis on supervised machine learning techniques, particularly as they apply to tabular data—a focus that aligns closely with the core products developed by our ML team.
+course_description: "This educational endeavor is designed to introduce personnel from various departments and diverse professional backgrounds to the fundamental concepts of machine learning. The curriculum places a strong emphasis on supervised machine learning techniques, particularly as they apply to tabular data—a focus that aligns closely with the core products developed by <b>Data and AI</b> team.
 <br>
 This course serves a dual purpose: firstly, to enhance interdepartmental communication, and secondly, to facilitate more effective discussions regarding project requirements and result interpretation. By establishing a shared foundation in machine learning principles and commonly used metrics, we aim to foster improved collaboration and synergy across different functional units within our organization.
 "
