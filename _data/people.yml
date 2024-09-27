@@ -1,13 +1,16 @@
 instructors:
-  - name: Mirerfan Gheibi
-    profile_pic: /_images/pp/mirerfan.png
-    webpage: https://www.linkedin.com/in/mirerfangheibi
   - name: Saeed Garmsiri
     profile_pic: /_images/pp/saeed.png
     webpage: https://www.linkedin.com/in/saeedgarmsiri
+
+  - name: Mirerfan Gheibi
+    profile_pic: /_images/pp/mirerfan.png
+    webpage: https://www.linkedin.com/in/mirerfangheibi
+
   - name: Pius Oyedepo
     profile_pic: /_images/pp/pius.png
     webpage: https://www.linkedin.com/in/pius-oyedepo-30371283/
+
   - name: Yael Petel, PhD
     profile_pic: /_images/pp/yael.jpg
     webpage: https://www.linkedin.com/in/yael-petel/
