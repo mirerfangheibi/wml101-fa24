@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-21T16:00:00-5:00
+date: 2024-10-24T16:00:00-5:00
 title: Introduction Session
 tldr: "This session is an introduction to the course and the logistics."
 thumbnail: # /static_files/presentations/lec.jpg

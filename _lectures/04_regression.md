@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-18T8:00:00+4:30
+date: 2024-11-14T16:00:00-5:00
 title: Regression
 tldr: "This lecture covers regression."
 thumbnail: #/static_files/presentations/lec.jpg

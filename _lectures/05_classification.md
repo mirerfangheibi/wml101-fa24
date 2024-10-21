@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-19T8:00:00+4:30
+date: 2024-11-21T16:00:00-5:00
 title: Classification
 tldr: "This lecture covers classification."
 thumbnail: #/static_files/presentations/lec.jpg

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-21T8:00:00+4:30
+date: 2024-12-05T16:00:00-5:00
 title: Explainability
 tldr: "This lecture covers explainability."
 thumbnail: #/static_files/presentations/lec.jpg

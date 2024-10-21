@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-16T8:00:00+4:30
+date: 2024-10-31T16:00:00-5:00
 title: Descriptive statistics and exploratory data analysis
 tldr: "This lecture covers the basics of descriptive statistics and exploratory data analysis."
 thumbnail: #/static_files/presentations/lec.jpg

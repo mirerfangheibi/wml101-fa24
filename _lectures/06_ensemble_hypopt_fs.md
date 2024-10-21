@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-10-20T8:00:00+4:30
+date: 2024-11-28T16:00:00-5:00
 title: Ensemble, Hyperparameter Optimization, and Feature Selection
 tldr: "This lecture covers ensemble methods, hyperparameter optimization, and feature selection."
 thumbnail: #/static_files/presentations/lec.jpg
