@@ -3,7 +3,7 @@ type: lecture
 date: 2024-10-24T16:00:00-5:00
 title: Introduction Session
 tldr: "This session is an introduction to the course and the logistics."
-thumbnail: /static_files/presentations/Introduction to Machine Learning - 01.png
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_01.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
