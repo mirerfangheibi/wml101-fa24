@@ -7,7 +7,7 @@ thumbnail: Introduction to Machine Learning - 01.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 links: 
     - url: https://docs.google.com/presentation/d/1V6ueysGXN9dJyvBVqKB7TKuC3SosDBdsAfr4FnHsu_M
