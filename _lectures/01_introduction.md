@@ -4,6 +4,7 @@ date: 2024-10-24T16:00:00-5:00
 title: Introduction Session
 tldr: "This session is an introduction to the course and the logistics."
 instructor: Mirerfan Gheibi
+instructor_link: https://www.linkedin.com/in/mirerfangheibi/
 thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_01.png
 
 # optional
