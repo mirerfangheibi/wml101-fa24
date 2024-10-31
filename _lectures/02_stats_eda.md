@@ -16,8 +16,8 @@ links:
       name: Slides
 #    - url: /static_files/presentations/code.zip
 #      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://www.kaggle.com/datasets/rm1000/fortune-500-companies?resource=download
+      name: Fortune 500 Dataset
 ---
 **Main Topics:**
 - Mean, median, mode, etc.
