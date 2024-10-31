@@ -5,15 +5,15 @@ title: Descriptive statistics and exploratory data analysis
 tldr: "This lecture covers the basics of descriptive statistics and exploratory data analysis."
 instructor: Rob Craig
 instructor_url: https://www.linkedin.com/in/robcraig/
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_02.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
+    - url: https://docs.google.com/presentation/d/1E4YLnT7WLI72u46QxgDa-u0Cpxbz_HTWjyXW1UIUhO8/edit?usp=sharing
+      name: Slides
 #    - url: /static_files/presentations/code.zip
 #      name: codes
 #    - url: https://google.com
