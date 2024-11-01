@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2024-10-31T16:00:00-5:00
-title: Descriptive statistics and exploratory data analysis
+title: Descriptive Statistics and Exploratory Data Analysis
 tldr: "This lecture covers the basics of descriptive statistics and exploratory data analysis."
 instructor: Rob Craig
 instructor_url: https://www.linkedin.com/in/robcraig/

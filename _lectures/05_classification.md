@@ -3,6 +3,8 @@ type: lecture
 date: 2024-11-21T16:00:00-5:00
 title: Classification
 tldr: "This lecture covers classification."
+instructor: Mirerfan Gheibi
+instructor_url: https://www.linkedin.com/in/mirerfangheibi/
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional

@@ -3,6 +3,8 @@ type: lecture
 date: 2024-11-14T16:00:00-5:00
 title: Regression
 tldr: "This lecture covers regression."
+instructor: Yael Petel, PhD
+instructor_url: https://www.linkedin.com/in/yael-petel/
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional

@@ -3,6 +3,8 @@ type: lecture
 date: 2024-12-05T16:00:00-5:00
 title: Explainability
 tldr: "This lecture covers explainability."
+instructor: Saeed Garmsiri
+instructor_url: https://www.linkedin.com/in/saeedgarmsiri
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional

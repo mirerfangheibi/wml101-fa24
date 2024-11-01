@@ -3,6 +3,8 @@ type: lecture
 date: 2024-11-07T16:00:00-5:00
 title: Data Cleaning and Cross Validation
 tldr: "This lecture covers data cleaning and cross validation."
+instructor: Pius Oyedepo
+instructor_url: https://www.linkedin.com/in/pius-oyedepo-30371283/
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional
