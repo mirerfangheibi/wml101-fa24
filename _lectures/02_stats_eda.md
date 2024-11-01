@@ -14,8 +14,8 @@ hide_from_announcments: false
 links: 
     - url: https://docs.google.com/presentation/d/1E4YLnT7WLI72u46QxgDa-u0Cpxbz_HTWjyXW1UIUhO8/edit?usp=sharing
       name: Slides
-#    - url: /static_files/presentations/code.zip
-#      name: codes
+    - url: https://drive.google.com/file/d/1SWc4jzMrVUZfLcf_cBnlrT6I8pTvrUKx/view?usp=sharing
+      name: Recorded Session
     - url: https://www.kaggle.com/datasets/rm1000/fortune-500-companies?resource=download
       name: Fortune 500 Dataset
 ---
