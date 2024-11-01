@@ -27,7 +27,7 @@ links:
 - Skewness and kurtosis
 - Data Quality
 - DataFrames
-- Charts and Graphs
+- Visualization, Charts and Graphs
 - Outliers
 - Correlation Coefficient
 
