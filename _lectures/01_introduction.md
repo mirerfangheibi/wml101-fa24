@@ -18,6 +18,10 @@ links:
       name: Recorded Session
 ---
 
+**Main Topics:**
+- Course Format and Logistics
+- Introductory Definitions and Concepts
+
 [//]: # (**Suggested Readings:**)
 
 [//]: # (- [Readings 1]&#40;http://example.com&#41;)
