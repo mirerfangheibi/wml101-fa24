@@ -5,19 +5,19 @@ title: Data Cleaning and Cross Validation
 tldr: "This lecture covers data cleaning and cross validation."
 instructor: Pius Oyedepo
 instructor_url: https://www.linkedin.com/in/pius-oyedepo-30371283/
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_03.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
-#    - url: /static_files/presentations/code.zip
-#      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://docs.google.com/presentation/d/19l9hLTpI8aUOdsqgJ1WoZdmLJ197zB-r78Ez73xqZCw/edit?usp=sharing
+      name: Slides
+    - url: https://drive.google.com/file/d/1ETYvG29GjqF6vfL1gwuDEvuUYtjUSgvB/view?usp=sharing
+      name: Recorded Session
+    - url: https://colab.research.google.com/drive/1oSd0vdgrtj3gHCvHdgAA0vSYliYsa54V?usp=sharing
+      name: Google Colab Notebook
 ---
 **Main Topics:**
 - Missing Values
