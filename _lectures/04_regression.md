@@ -5,19 +5,19 @@ title: Regression
 tldr: "This lecture covers regression."
 instructor: Yael Petel, PhD
 instructor_url: https://www.linkedin.com/in/yael-petel/
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_04.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 links: 
 #    - url: /static_files/presentations/lec.zip
-#      name: notes
-#    - url: /static_files/presentations/code.zip
-#      name: codes
-#    - url: https://google.com
-#      name: slides
+#      name: Slides
+    - url: https://drive.google.com/file/d/1nYmn3TIE8ItsoJxM1S5j5oGRlctjLfZt/view
+      name: Recorded Session
+    - url: https://colab.research.google.com/drive/11ItpakMA88hGl-RS5GUgI0_e41ASztEZ
+      name: Google Colab Notebook
 ---
 **Main Topics:**
 - Regression Basics
