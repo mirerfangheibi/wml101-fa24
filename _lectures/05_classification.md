@@ -5,7 +5,7 @@ title: Classification
 tldr: "This lecture covers classification."
 instructor: Diana Borovik
 instructor_url: https://linkedin.com/in/diana-borovik-45303375
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_05.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
