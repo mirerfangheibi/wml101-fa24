@@ -12,12 +12,12 @@ thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_05.png
 hide_from_announcments: true
 
 links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
+    - url: https://docs.google.com/presentation/d/1b98Pm6ddKXomHcwALpvWlnBLEf_8zn5gqxbkSt7AQwM
+      name: Slides
 #    - url: /static_files/presentations/code.zip
 #      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://colab.research.google.com/drive/15iaLXbQee4Ja3FEltF88vxAFWg_duf2X
+      name: Google Colab Notebook
 ---
 **Main Topics:**
 - Logistic Regression
