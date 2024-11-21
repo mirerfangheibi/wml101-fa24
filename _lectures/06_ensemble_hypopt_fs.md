@@ -5,7 +5,7 @@ title: Ensemble, Hyperparameter Optimization, and Feature Selection
 tldr: "This lecture covers ensemble methods, hyperparameter optimization, and feature selection."
 instructor: Mirerfan Gheibi
 instructor_url: https://www.linkedin.com/in/mirerfangheibi/
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_06.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
