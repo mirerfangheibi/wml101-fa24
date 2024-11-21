@@ -9,7 +9,7 @@ thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_04.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: false
+hide_from_announcments: true
 
 links: 
     - url: https://docs.google.com/presentation/d/1NWZ6pug-NFYe-RLADVnr6Mg4HX6dWo2SKjDtCSHObRU
