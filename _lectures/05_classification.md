@@ -4,7 +4,7 @@ date: 2024-11-21T16:00:00-5:00
 title: Classification
 tldr: "This lecture covers classification."
 instructor: Diana Borovik
-instructor_url: #https://www.linkedin.com/in/mirerfangheibi/
+instructor_url: https://linkedin.com/in/diana-borovik-45303375
 thumbnail: #/static_files/presentations/lec.jpg
 
 # optional
