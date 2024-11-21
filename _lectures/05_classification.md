@@ -24,9 +24,7 @@ links:
 - Logloss function
 - Metrics
 - Imbalanced classification
-- Overfitting and Underfitting
-- Calibration
-- Multiclass classification
+- Decision Trees
 
 **Suggested Readings:**
 - Chapter 7 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
