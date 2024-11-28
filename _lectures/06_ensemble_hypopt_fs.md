@@ -29,4 +29,4 @@ links:
 - PCA
 
 **Suggested Readings:**
-- Chapter 8, 9, and 10 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
+- Chapter 8, 9, 10, and 11 of [The Orange Book of Machine Learning](https://leanpub.com/TOBoML).
