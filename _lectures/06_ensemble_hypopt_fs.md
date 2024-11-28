@@ -9,15 +9,15 @@ thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_06.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
-hide_from_announcments: true
+hide_from_announcments: false
 
 links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
-#    - url: /static_files/presentations/code.zip
-#      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://docs.google.com/presentation/d/1RHU8aX8VkYo4AzM2MTfGGrxyf2dDhoQhOQZYcBsgT_I
+      name: Slides
+#    - url: https://drive.google.com/file/d/1OHga9xifi6r0fzlssuvhtiDG_39ATxVB
+#      name: Recorded Session
+    - url: https://colab.research.google.com/drive/1wlzzqi-7qvXxNBK_gj5TPZQxx8sMAlL-
+      name: Google Colab Notebook
 ---
 **Main Topics:**
 - Random Forest
