@@ -14,8 +14,8 @@ hide_from_announcments: false
 links: 
     - url: https://docs.google.com/presentation/d/1RHU8aX8VkYo4AzM2MTfGGrxyf2dDhoQhOQZYcBsgT_I
       name: Slides
-#    - url: https://drive.google.com/file/d/1OHga9xifi6r0fzlssuvhtiDG_39ATxVB
-#      name: Recorded Session
+    - url: https://drive.google.com/file/d/16n9E-8TWkYWCtrum3Z1fOX75jrWpBlTP
+      name: Recorded Session
     - url: https://colab.research.google.com/drive/1wlzzqi-7qvXxNBK_gj5TPZQxx8sMAlL-
       name: Google Colab Notebook
 ---
