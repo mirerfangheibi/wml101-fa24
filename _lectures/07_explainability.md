@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-12-05T16:00:00-5:00
+date: 2025-01-05T21:00:00-5:00
 title: Explainability
 tldr: "This lecture covers explainability."
 instructor: Saeed Garmsiri
@@ -12,12 +12,12 @@ thumbnail: #/static_files/presentations/lec.jpg
 hide_from_announcments: true
 
 links: 
-#    - url: /static_files/presentations/lec.zip
-#      name: notes
-#    - url: /static_files/presentations/code.zip
-#      name: codes
-#    - url: https://google.com
-#      name: slides
+    - url: https://docs.google.com/presentation/d/1VxNUC_i7JMu5uGRAk8eirfm8SW1JfcUOybIXMX9a3NY
+      name: Slides
+    - url: https://drive.google.com/file/d/1pUZBoMk1733EAxTJMiGu6cqyNaXxusTc
+      name: Recorded Session
+    - url: https://colab.research.google.com/drive/1yntRy5MqAN6VNQJFDahSfj65ln99MdTV
+      name: Google Colab Notebook
 ---
 **Main Topics:**
 - SHAP
