@@ -5,7 +5,7 @@ title: Explainability
 tldr: "This lecture covers explainability."
 instructor: Saeed Garmsiri
 instructor_url: https://www.linkedin.com/in/saeedgarmsiri
-thumbnail: #/static_files/presentations/lec.jpg
+thumbnail: /static_files/presentations/Introduction_to_Machine_Learning_-_07.png
 
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
